@@ -12,16 +12,16 @@ GraphicsSettings:
     m_Shader: {fileID: 74, guid: 0000000000000000e000000000000000, type: 0}
   m_ScreenSpaceShadows:
     m_Mode: 1
-    m_Shader: {fileID: 4800000, guid: 91f0eec85d1c9c54d9768e86f55eecc8, type: 3}
+    m_Shader: {fileID: 4800000, guid: fed164d4cad271344a2dda026f893fbb, type: 3}
   m_LegacyDeferred:
     m_Mode: 1
     m_Shader: {fileID: 63, guid: 0000000000000000e000000000000000, type: 0}
   m_DepthNormals:
     m_Mode: 1
-    m_Shader: {fileID: 4800000, guid: 47738538694805d43b0f4d9c7d275dc3, type: 3}
+    m_Shader: {fileID: 4800000, guid: 91376eeb285c13544aa9e54d2d1832bd, type: 3}
   m_MotionVectors:
     m_Mode: 1
-    m_Shader: {fileID: 4800000, guid: 3e8545b1e9c48d14ab80454e7f8aa1a8, type: 3}
+    m_Shader: {fileID: 4800000, guid: b2fc5d2f9b93ac6459b0f38ca5664706, type: 3}
   m_LightHalo:
     m_Mode: 1
     m_Shader: {fileID: 105, guid: 0000000000000000f000000000000000, type: 0}
@@ -35,10 +35,10 @@ GraphicsSettings:
   - {fileID: 15106, guid: 0000000000000000e000000000000000, type: 0}
   - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 10782, guid: 0000000000000000f000000000000000, type: 0}
-  - {fileID: 4800000, guid: ca7b70b68d610ea40b9e348778128d06, type: 3}
+  - {fileID: 4800000, guid: 2d052973f26105d49b5167017d3b33cf, type: 3}
   - {fileID: 65, guid: 0000000000000000e000000000000000, type: 0}
   - {fileID: 66, guid: 0000000000000000e000000000000000, type: 0}
-  - {fileID: 4800000, guid: ca7b70b68d610ea40b9e348778128d06, type: 3}
+  - {fileID: 4800000, guid: 2d052973f26105d49b5167017d3b33cf, type: 3}
   - {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 9002, guid: 0000000000000000f000000000000000, type: 0}

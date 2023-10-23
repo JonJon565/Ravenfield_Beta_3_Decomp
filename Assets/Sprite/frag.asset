@@ -20,7 +20,7 @@ Sprite:
   m_AtlasName:
   m_PackingTag:
   m_RD:
-    texture: {fileID: 2800000, guid: 54f49a22fccec2b47a31220760094f1d, type: 3}
+    texture: {fileID: 2800000, guid: 35d1b002b8546f74aa8552fb324f8bb7, type: 3}
     alphaTexture: {fileID: 0}
     vertices:
     - serializedVersion: 2

@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Javelin Crosshair
-  m_Shader: {fileID: 4800000, guid: 5d6beecd16e64b044835b57193fa3289, type: 3}
+  m_Shader: {fileID: 4800000, guid: 97d97e2f9a6a16940a4fd27e8c1ac441, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
   m_CustomRenderQueue: -1

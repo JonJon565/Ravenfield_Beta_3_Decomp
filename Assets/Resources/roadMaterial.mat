@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: roadMaterial
-  m_Shader: {fileID: 4800000, guid: 06435a1164854e24bb6ad65e8034f929, type: 3}
+  m_Shader: {fileID: 4800000, guid: 2229efabc2ee3e9418795e806bb2fcfd, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_CustomRenderQueue: 2000
@@ -18,7 +18,7 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 552baf6207086ab4c97911f552478920, type: 3}
+        m_Texture: {fileID: 2800000, guid: aa017a62e30487c45a852a9d28f0bda7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

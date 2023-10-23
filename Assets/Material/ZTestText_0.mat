@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: ZTestText_0
-  m_Shader: {fileID: 4800000, guid: 42edf31aeab7129498a4ee29e8576e5b, type: 3}
+  m_Shader: {fileID: 4800000, guid: c701641fb98274d43b08b1466127e74f, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 2a3ee3039a4bba1428004d4b35a11665, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5a8909590843ad8478f0e96b42b25197, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

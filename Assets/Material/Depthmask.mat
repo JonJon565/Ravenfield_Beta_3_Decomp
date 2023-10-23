@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Depthmask
-  m_Shader: {fileID: 4800000, guid: ad62380c9db4ed04cae90bf3054cbbb3, type: 3}
+  m_Shader: {fileID: 4800000, guid: 934562eadc0c1fa428d9140354cebc43, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0

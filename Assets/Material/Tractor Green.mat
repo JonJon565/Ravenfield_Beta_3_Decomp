@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Tractor Green
-  m_Shader: {fileID: 4800000, guid: d74cb0c4a277dd04586ef2f1c4b58b9d, type: 3}
+  m_Shader: {fileID: 4800000, guid: 7d2531604ebdfa7458147236588a4f6f, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1

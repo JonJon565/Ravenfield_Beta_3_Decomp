@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Soil
-  m_Shader: {fileID: 4800000, guid: d74cb0c4a277dd04586ef2f1c4b58b9d, type: 3}
+  m_Shader: {fileID: 4800000, guid: 7d2531604ebdfa7458147236588a4f6f, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
@@ -48,7 +48,7 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: c14615518ce279842b28fbae0f9159f4, type: 3}
+        m_Texture: {fileID: 2800000, guid: bd774472757aeaa4081523c786f8f919, type: 3}
         m_Scale: {x: 3, y: 3}
         m_Offset: {x: 0, y: 0}
     - first:

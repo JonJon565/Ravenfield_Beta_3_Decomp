@@ -1881,7 +1881,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 54a19b85ccb06bf4095392ee83014f94, type: 2}
+  - {fileID: 2100000, guid: fa316690460562544b8b69ce9274aca6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1915,11 +1915,11 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: e1ecb7777caef164f952151d03f37378, type: 2}
-  - {fileID: 2100000, guid: 6f156c8889ef2094aa9f398d5278e744, type: 2}
-  - {fileID: 2100000, guid: 61dbc316bd80fa3469a8fff1f74ede86, type: 2}
-  - {fileID: 2100000, guid: 9061b8f5915a0f84b91ad0cc9cdf0e52, type: 2}
-  - {fileID: 2100000, guid: 81de1b5e37fe3dd48a04dd176c860a5f, type: 2}
+  - {fileID: 2100000, guid: bc6f552ef03a1354e91b65eb07c0461d, type: 2}
+  - {fileID: 2100000, guid: 3c8c43abd24a72747b09eba43c0083d7, type: 2}
+  - {fileID: 2100000, guid: 8e38d0d5bb711874fbb5a99ad94fc3d1, type: 2}
+  - {fileID: 2100000, guid: c3c5a52ed03984843be35d247d65ecd8, type: 2}
+  - {fileID: 2100000, guid: e1bfc68e3f0446048b9c9c5dfdf9989d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1953,7 +1953,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 1190221136}
+  - {fileID: 1319868132}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1987,7 +1987,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 1260133787}
+  - {fileID: 884916134}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2021,7 +2021,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 1956342452}
+  - {fileID: 1942832129}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2055,7 +2055,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 9427c2c505aeb494087a0d0ddee98894, type: 2}
+  - {fileID: 2100000, guid: 97123b3632847c240a8ee0b91bf264f0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2081,28 +2081,28 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 57}
-  m_Mesh: {fileID: 4300000, guid: 96246cbbe1b37c246b1a36101326769b, type: 2}
+  m_Mesh: {fileID: 4300000, guid: e637051804a980f438eff3fb35486b02, type: 2}
 --- !u!33 &136
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 54}
-  m_Mesh: {fileID: 4300000, guid: 14e4700eedd309c4f9df22698f6f4bb8, type: 2}
+  m_Mesh: {fileID: 4300000, guid: d116ddde48404bf4ead9e660712b5e66, type: 2}
 --- !u!33 &137
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 62}
-  m_Mesh: {fileID: 4300000, guid: 705e7e8e9a03be34b8232f539a368514, type: 2}
+  m_Mesh: {fileID: 4300000, guid: 9420c97d0e6dbec49be9748f445daab6, type: 2}
 --- !u!33 &138
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 59}
-  m_Mesh: {fileID: 4300000, guid: abc0aca4a290a3942814891c8c214e60, type: 2}
+  m_Mesh: {fileID: 4300000, guid: a1a9ae1a5e17991428fb3df75ea26436, type: 2}
 --- !u!81 &139
 AudioListener:
   m_ObjectHideFlags: 0
@@ -2119,7 +2119,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ef18f4d8eeaa0a64ab657ea76ac8584a, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bc05945159922b74b944f03e7a523241, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -2241,7 +2241,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 02b3cc6762f96f846bc632574fcd096b, type: 3}
+  m_audioClip: {fileID: 8300000, guid: df44f4432f6724249835d5a42db6efcc, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -2327,7 +2327,7 @@ Animator:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 29}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: f487a91bfcfb96946a9067b7f6272628, type: 2}
+  m_Avatar: {fileID: 9000000, guid: 45de0955bb723f445988a1cfae72dcb3, type: 2}
   m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
@@ -2344,7 +2344,7 @@ Animator:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 53}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: f487a91bfcfb96946a9067b7f6272628, type: 2}
+  m_Avatar: {fileID: 9000000, guid: 45de0955bb723f445988a1cfae72dcb3, type: 2}
   m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
@@ -2370,7 +2370,7 @@ TextMesh:
   m_FontSize: 160
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 2a3ee3039a4bba1428004d4b35a11665, type: 3}
+  m_Font: {fileID: 12800000, guid: 5a8909590843ad8478f0e96b42b25197, type: 3}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -2391,7 +2391,7 @@ TextMesh:
   m_FontSize: 78
   m_FontStyle: 0
   m_RichText: 1
-  m_Font: {fileID: 12800000, guid: 2a3ee3039a4bba1428004d4b35a11665, type: 3}
+  m_Font: {fileID: 12800000, guid: 5a8909590843ad8478f0e96b42b25197, type: 3}
   m_Color:
     serializedVersion: 2
     rgba: 4294967295
@@ -2416,7 +2416,7 @@ RenderSettings:
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
   m_HaloTexture: {fileID: 0}
-  m_SpotCookie: {fileID: 2800000, guid: a9353882c93bffe4dacf36dcf6c9dcda, type: 3}
+  m_SpotCookie: {fileID: 2800000, guid: d4576cb0b5e5be34da7c9fcbe67fe496, type: 3}
   m_DefaultReflectionMode: 0
   m_DefaultReflectionResolution: 128
   m_ReflectionBounces: 1
@@ -2468,9 +2468,9 @@ Animation:
   m_GameObject: {fileID: 55}
   m_Enabled: 1
   serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: 8e93525a1bca63b45a9549424994db6b, type: 2}
+  m_Animation: {fileID: 7400000, guid: bd00bb8bbb8d7944284e4618d8c2224d, type: 2}
   m_Animations:
-  - {fileID: 7400000, guid: 8e93525a1bca63b45a9549424994db6b, type: 2}
+  - {fileID: 7400000, guid: bd00bb8bbb8d7944284e4618d8c2224d, type: 2}
   m_WrapMode: 0
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
@@ -2496,7 +2496,7 @@ SkinnedMeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 69c338b85a9ea534796762ebb2cf042a, type: 2}
+  - {fileID: 2100000, guid: 72fec301d52c2a34fb12632d9ecd8218, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2520,7 +2520,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300000, guid: 0942f3c5e21a3bd4ca8da9c6dd629ace, type: 2}
+  m_Mesh: {fileID: 4300000, guid: 20b22210af503f3459f933b5dca31003, type: 2}
   m_Bones:
   - {fileID: 87}
   - {fileID: 86}
@@ -2563,7 +2563,7 @@ SkinnedMeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 69c338b85a9ea534796762ebb2cf042a, type: 2}
+  - {fileID: 2100000, guid: 72fec301d52c2a34fb12632d9ecd8218, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2587,7 +2587,7 @@ SkinnedMeshRenderer:
   m_Quality: 0
   m_UpdateWhenOffscreen: 0
   m_SkinnedMotionVectors: 1
-  m_Mesh: {fileID: 4300000, guid: 0942f3c5e21a3bd4ca8da9c6dd629ace, type: 2}
+  m_Mesh: {fileID: 4300000, guid: 20b22210af503f3459f933b5dca31003, type: 2}
   m_Bones:
   - {fileID: 111}
   - {fileID: 110}
@@ -2665,7 +2665,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
-  m_LightingDataAsset: {fileID: 112000002, guid: 974a845feceffc849b6fa939b0134874,
+  m_LightingDataAsset: {fileID: 112000002, guid: 48e6c9cd3a59dd345b2c62b85f827c31,
     type: 2}
   m_UseShadowmask: 0
 --- !u!222 &154
@@ -2783,7 +2783,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf9952959c83757af6519b4fce4983e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  queue: 2450
+  queue: 3000
 --- !u!114 &161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2795,7 +2795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf9952959c83757af6519b4fce4983e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  queue: 3000
+  queue: 3001
 --- !u!114 &162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2862,7 +2862,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bf9952959c83757af6519b4fce4983e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  queue: 2000
+  queue: 2999
 --- !u!114 &166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2942,60 +2942,26 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
---- !u!21 &1190221136
+--- !u!21 &884916134
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Depthmask (Instance) (Instance) (Instance) (Instance)
-  m_Shader: {fileID: 4800000, guid: ad62380c9db4ed04cae90bf3054cbbb3, type: 3}
-  m_ShaderKeywords: 
-  m_LightmapFlags: 5
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2450
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs: []
-    m_Floats:
-    - _BumpScale: 1
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _DstBlend: 0
-    - _Glossiness: 0.5
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _Parallax: 0.02
-    - _SrcBlend: 1
-    - _UVSec: 0
-    - _ZWrite: 1
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
---- !u!21 &1260133787
-Material:
-  serializedVersion: 6
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_Name: Rotor Blurred_0 (Instance) (Instance) (Instance) (Instance)
+  m_Name: Rotor Blurred_0 (Instance) (Instance) (Instance)
   m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: 2999
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 91923d47a573cbe44a624d5f7cab636a, type: 3}
+        m_Texture: {fileID: 2800000, guid: bc886a0466fa2a94a8a42d108451ec72, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -3021,19 +2987,18 @@ Material:
     - _UseUIAlphaClip: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 0.434}
+    - _Color: {r: 0, g: 0, b: 0, a: 0.334}
     - _Emission: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 0}
-    - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
---- !u!21 &1956342452
+--- !u!21 &1319868132
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: ZTestText_0 (Instance) (Instance) (Instance) (Instance)
-  m_Shader: {fileID: 4800000, guid: 42edf31aeab7129498a4ee29e8576e5b, type: 3}
+  m_Name: Depthmask (Instance) (Instance) (Instance)
+  m_Shader: {fileID: 4800000, guid: 934562eadc0c1fa428d9140354cebc43, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
@@ -3043,9 +3008,43 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Glossiness: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+--- !u!21 &1942832129
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ZTestText_0 (Instance) (Instance) (Instance)
+  m_Shader: {fileID: 4800000, guid: c701641fb98274d43b08b1466127e74f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3001
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 2a3ee3039a4bba1428004d4b35a11665, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5a8909590843ad8478f0e96b42b25197, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

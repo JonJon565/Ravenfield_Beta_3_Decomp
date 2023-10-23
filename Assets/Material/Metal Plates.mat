@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Metal Plates
-  m_Shader: {fileID: 4800000, guid: d74cb0c4a277dd04586ef2f1c4b58b9d, type: 3}
+  m_Shader: {fileID: 4800000, guid: 7d2531604ebdfa7458147236588a4f6f, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
@@ -48,7 +48,7 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 9da581b525423d04293c48f6945a66ca, type: 3}
+        m_Texture: {fileID: 2800000, guid: d00409682db10b24090fa1abf6fca6be, type: 3}
         m_Scale: {x: 5, y: 5}
         m_Offset: {x: 0, y: 0}
     - first:

@@ -18,13 +18,13 @@ Material:
     - first:
         name: _MainTex
       second:
-        m_Texture: {fileID: 2800000, guid: 716cb78c09dd074419ea7dab2b95a55a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 46be090d820d6b14f832722e20bd3abc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - first:
         name: _ShadowTex
       second:
-        m_Texture: {fileID: 2800000, guid: 203b32bebe7a77c48883ecfec17f6405, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06ad69b13cd095d4b83dae2cc6ee69fd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

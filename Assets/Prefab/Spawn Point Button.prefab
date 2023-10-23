@@ -9,19 +9,19 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1924714606928121}
+  m_RootGameObject: {fileID: 1829614891445517}
   m_IsPrefabParent: 1
---- !u!1 &1924714606928121
+--- !u!1 &1829614891445517
 GameObject:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 224: {fileID: 224336228363180456}
-  - 222: {fileID: 222186053702694585}
-  - 114: {fileID: 114897735532818194}
-  - 114: {fileID: 114438030658004708}
+  - 224: {fileID: 224025428925398494}
+  - 222: {fileID: 222326283328566776}
+  - 114: {fileID: 114578287072733600}
+  - 114: {fileID: 114645568681381152}
   m_Layer: 5
   m_Name: Spawn Point Button
   m_TagString: Untagged
@@ -29,12 +29,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &224336228363180456
+--- !u!224 &224025428925398494
 RectTransform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1924714606928121}
+  m_GameObject: {fileID: 1829614891445517}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -47,18 +47,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 24, y: 24}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &222186053702694585
+--- !u!222 &222326283328566776
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1924714606928121}
---- !u!114 &114897735532818194
+  m_GameObject: {fileID: 1829614891445517}
+--- !u!114 &114578287072733600
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1924714606928121}
+  m_GameObject: {fileID: 1829614891445517}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -71,7 +71,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 18605d9618167b645b235fb6ac4da741, type: 2}
+  m_Sprite: {fileID: 21300000, guid: 22ed86dcbd4988d4e8f8ea5cf7385b84, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -79,12 +79,12 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
---- !u!114 &114438030658004708
+--- !u!114 &114645568681381152
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1924714606928121}
+  m_GameObject: {fileID: 1829614891445517}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -114,7 +114,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 114897735532818194}
+  m_TargetGraphic: {fileID: 114578287072733600}
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []

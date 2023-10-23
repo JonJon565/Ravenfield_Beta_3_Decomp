@@ -9,18 +9,18 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1628463734768998}
+  m_RootGameObject: {fileID: 1212498605524648}
   m_IsPrefabParent: 1
---- !u!1 &1628463734768998
+--- !u!1 &1212498605524648
 GameObject:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_Component:
-  - 4: {fileID: 4615488538280273}
-  - 33: {fileID: 33575492368398376}
-  - 23: {fileID: 23638298362589349}
+  - 4: {fileID: 4107856847700037}
+  - 33: {fileID: 33122372036893041}
+  - 23: {fileID: 23664477862403904}
   m_Layer: 0
   m_Name: RubbleSingle
   m_TagString: Untagged
@@ -28,12 +28,12 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4615488538280273
+--- !u!4 &4107856847700037
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1628463734768998}
+  m_GameObject: {fileID: 1212498605524648}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 354.09912, y: 38.17869, z: 358.03506}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -41,19 +41,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!33 &33575492368398376
+--- !u!33 &33122372036893041
 MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1628463734768998}
-  m_Mesh: {fileID: 4300000, guid: a4a0ae0ff215bcb468320dfd89c4eb2f, type: 2}
---- !u!23 &23638298362589349
+  m_GameObject: {fileID: 1212498605524648}
+  m_Mesh: {fileID: 4300000, guid: 2ec1d9e2a025adc4e924cfd52964540d, type: 2}
+--- !u!23 &23664477862403904
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1628463734768998}
+  m_GameObject: {fileID: 1212498605524648}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -61,7 +61,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 53f52639f0382384a86d7359129a7cc7, type: 2}
+  - {fileID: 2100000, guid: 517b0a2a8fa049f44b417fac41175de8, type: 2}
   m_SubsetIndices: []
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}

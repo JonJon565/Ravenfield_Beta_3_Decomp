@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: surfaceAlphaMaterial
-  m_Shader: {fileID: 4800000, guid: 79bd1a5c99e3a634f9cffaa7692f0cc8, type: 3}
+  m_Shader: {fileID: 4800000, guid: 4d3f9733160ab5743afdd7ef828ea4a1, type: 3}
   m_ShaderKeywords:
   m_LightmapFlags: 5
   m_CustomRenderQueue: -1
